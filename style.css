@@ -134,6 +134,11 @@ h6 {
 .nav-scroll .active {
 	position: relative;
 }
+.about-us-paragraph{
+    width: 100% !important;
+    font-size: x-large;
+	color: #004711;
+}
 .banner {
 	background:url(images/homeee.bg.jpg) ;
 	margin-left: 20px;
