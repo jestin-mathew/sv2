@@ -136,6 +136,8 @@ h6 {
 }
 .banner {
 	background:url(images/homeee.bg.jpg) ;
+	margin-left: 20px;
+	padding-left: 20px;
 	color:#ffffff;
 	text-align: center;
 	width: 100%;
